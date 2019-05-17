@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the homepage of a confused student
+Still figuring out everything in life :)
+All I'm sure of are 2 things:
+  I Like cars, and I like being happy
 
-You can use the [editor on GitHub](https://github.com/KenASewell/KenASewell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
