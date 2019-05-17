@@ -1,5 +1,5 @@
 ## Welcome to the homepage of a confused student
-Still figuring out everything in life :)
+Still figuring out everything in life
 All I'm sure of is 1 thing:
   I like cars
 
