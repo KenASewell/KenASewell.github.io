@@ -1,6 +1,7 @@
 ## Welcome to the homepage of a confused student
 All I'm sure of is 1 thing:
 * I like cars
+![alt text](https://github.com/KenASewell/KenASewell.github.io/blob/master/IMG_1214.JPG)
 
 
 ### Markdown
