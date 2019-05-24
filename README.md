@@ -1,5 +1,5 @@
-## Welcome to the homepage of a confused student
-All I'm sure of is 1 thing:
+## Welcome to the homepage of a kenji boy
+Things I enjoy:
 * I like cars
 ![alt text](https://github.com/KenASewell/KenASewell.github.io/blob/master/UNADJUSTEDNONRAW_thumb_60.jpg)
 
