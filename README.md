@@ -1,7 +1,7 @@
 ## Welcome to the homepage of a kenji boy
 Things I enjoy:
 * I like cars
-![Image](https://github.com/KenASewell/KenASewell.github.io/blob/master/UNADJUSTEDNONRAW_thumb_60.jpg)
+![Image](http://cdn.mkimg.carview.co.jp/minkara/photo/000/001/479/994/1479994/p4.jpg?ct=424e292bd28d)
 * *[My little cars](http://instagram.com/kensplastics)
 
 ### Markdown
